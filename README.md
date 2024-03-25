@@ -19,7 +19,6 @@ Uso:
 - Instale a versão mais estável do [Node](https://nodejs.org/)
 - Clone este repositório na sua maquina
 - Crie uma nova branch
-- Instale as dependências 
- - `npm install`
+- Instale as dependências: `npm install`
 
  Cada exercício possui o seu próprio arquivo de teste, para testar sua resolução rode: `npm run test`
