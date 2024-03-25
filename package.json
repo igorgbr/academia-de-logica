@@ -1,0 +1,18 @@
+{
+  "name": "academia-de-logica",
+  "version": "1.0.0",
+  "description": "exercicios de logica para os mentorados",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "jest ./academia-de-logica"
+  },
+  "keywords": [
+    "logica",
+    "javascript"
+  ],
+  "author": "igor giamoniano",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
