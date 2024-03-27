@@ -16,6 +16,8 @@ Afinal não são só os desenvolvedores Elixir que fazem magia certo? 💜
 function helloWorld(greeting) {
     //... seu código abaixo dessa linha ...//
 
+    return "Hello world, i'm a javascript developer!";
+
   }
   
   module.exports = helloWorld;
