@@ -3,7 +3,7 @@ então vamos começar por algo fácil! 😉
 
 Abaixo temos uma função 'HelloWorld' que recebe um parâmetro 'greeting', este parâmetro tem o seguinte valor:
 "Hello World"
-Seu trabalho aqui é deixar nossa saudação um pouco mais amigável...
+Seu trabalho aqui é deixar nossa saudação um pouco mais amigável..
 
 Explicação:
 Utilizando o parâmetro como base retorne a seguinte mensagem:
